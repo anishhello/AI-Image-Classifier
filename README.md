@@ -13,5 +13,6 @@ So we decided to take-up pretarined models built on the purpose of image classif
 One of the main reasons is the use of Inception modules which can perform convolutions with multiple filter-sizes simultaneously which provides for better generalizations. It also uses auxiliary classifiers which prevent overfitting. It also uses factorization to reduce the no. of parameters and hence improve computational costs.
 
 
-<img width="696" alt="Screenshot 2024-01-03 121416" src="https://github.com/anishhello/home-doc-assistant/assets/133523672/98473ecf-2e6a-40df-b985-26a68080f04c">
+<img width="696" alt="![Screenshot 2024-06-04 113440](https://github.com/Arin13-03/AI-Image-Classifier/assets/133523672/ae68ebb6-c3de-4f1d-891e-2a2f590df05f)
+" >
 
