@@ -17,5 +17,37 @@ One of the main reasons is the use of Inception modules which can perform convol
 #### Architecture of InceptionV3
 <img width="600" alt="Screenshot 2024-06-04 113440" src="https://github.com/Arin13-03/AI-Image-Classifier/assets/133523672/ae68ebb6-c3de-4f1d-891e-2a2f590df05f">
 
- 
+
+## Project Working Video
+
+https://github.com/Arin13-03/AI-Image-Classifier/assets/118659151/e54165cf-387e-45f8-bac6-3e6bab10ce57
+
+## How to get started 🚀
+First, we need to have all the requirements before hosting into our local system.
+### Requirements:
++  git installed in your system
++  python environment setup (v3.0 or more preferred)
+### Steps to Follow:
++ Clone the Repository
+```bash
+git clone https://github.com/Arin13-03/AI-Image-Classifier.git
+```
++ Open the terminal in the folder where all these files are saved
++ Use the command to run the app
+```bash
+streamlit run app.py
+```
++ A local host server will be active and its URL will be given in the terminal, go to that and fact-check the image like a cop.
+
+## How to use this App 🤩
++ There are two theme modes provided: Light and Dark.
+
++ Two options are provided: 
+    + Upload from Files (local system)
+    + By entering the URL of the image
+
++ After Images are fetched from the data it will shown. (as per the video)
++ Now click on the button **Produce Result**. It will give the details of the image whether it's Fake 🤥 or Real 😺 with the probability of how real is this image.
+
+### Happy Contributing 😁!! 
 
