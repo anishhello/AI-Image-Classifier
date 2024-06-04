@@ -48,6 +48,13 @@ streamlit run app.py
 
 + After Images are fetched from the data it will shown. (as per the video)
 + Now click on the button **Produce Result**. It will give the details of the image whether it's Fake 🤥 or Real 😺 with the probability of how real is this image.
+  
+## Improvements 😎
++ Our App depends on the order
+> app.py > main.py > inceptionv3f.weights.h5
+
+We can further improve our project by removing the dependency of the weights file.
++ In the dev section we can implement some more interesting UI elements like font size, font weights, and colors, etc.
 
 ### Happy Contributing 😁!! 
 
